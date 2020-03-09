@@ -38,7 +38,7 @@ or manually
  `pip install pygame`
 
 ###### Start game :
-`python main.py`
+`python3 main.py`
 
 ###### Stop virtual environment :
 `deactivate`
